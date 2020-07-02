@@ -1,4 +1,4 @@
-# Linear-regression
+# Linear-regression using gradient descent algorithm
 
 This is a python program for univariate linear regression.
 The model has been made without using any available training models.
